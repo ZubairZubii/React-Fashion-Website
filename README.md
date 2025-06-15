@@ -2,7 +2,7 @@
 
 A modern, feature-rich e-commerce platform built with the MERN stack (MongoDB, Express.js, React, Node.js) and additional technologies for enhanced functionality.
 
-![Screenshot 2025-06-15 170332](https://github.com/user-attachments/assets/0ce83f5b-ce0b-4624-9c53-7cecf00b22fc)
+
 ![Screenshot 2025-06-15 170315](https://github.com/user-attachments/assets/db856f7a-9953-44be-90ef-f58067c0a4dd)
 ![Screenshot 2025-06-15 170217](https://github.com/user-attachments/assets/19c9d393-ae89-4706-b6e4-9cfca797286f)
 ![Screenshot 2025-06-15 170129](https://github.com/user-attachments/assets/2cbe14d5-164b-4d90-a5f4-1e4f92aa2770)
@@ -10,6 +10,7 @@ A modern, feature-rich e-commerce platform built with the MERN stack (MongoDB, E
 ![Screenshot 2025-06-15 165946](https://github.com/user-attachments/assets/ef513ab8-1670-4bb7-b4cb-6946ce6d2510)
 ![Screenshot 2025-06-15 165912](https://github.com/user-attachments/assets/d46c32f8-4b05-4518-af60-58d9928d14cc)
 ![Screenshot 2025-06-15 165839](https://github.com/user-attachments/assets/971d5eca-202e-44b1-8913-cc6954b2a7bc)
+![Screenshot 2025-06-15 170332](https://github.com/user-attachments/assets/0ce83f5b-ce0b-4624-9c53-7cecf00b22fc)
 ![Screenshot 2025-06-15 165736](https://github.com/user-attachments/assets/99ead3e8-9ff3-4c9c-b524-7681fe471866)
 
 
